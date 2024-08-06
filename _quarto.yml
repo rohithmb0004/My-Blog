@@ -1,0 +1,19 @@
+project:
+  type: website
+
+website:
+  title: "Yathra"
+  navbar:
+    right:
+      - about.qmd
+      - icon: github
+        href: https://github.com/rohithmb0004
+      - icon: twitter
+        href: https://twitter.com
+format:
+  html:
+    theme: morpho
+    css: styles.css
+
+
+
